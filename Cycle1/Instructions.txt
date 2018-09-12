@@ -1,0 +1,4 @@
+Input file given to the program is a finite automata.
+Entire program helps you to convert an e-nfa to optimized nfa.
+It is composed of four functions, one is to remove find epsilon closure of each state, another is to remove epsilon closure, another one is to find curresponding dfa and finally tominimize the dfa obtained.
+Only 3 cases are given in the switch case statements, but 2nd option will eliminate closure and 3rd option will create and minimize dfa.
